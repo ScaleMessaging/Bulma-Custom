@@ -9,3 +9,6 @@ We will not use Bulma all the time but when it is just really necessary. This pa
 # Latest
 - removed all default CSS setting so that it will not conflict any sites
 
+Thanks to this repo/tool was able to quickly add namespace:
+https://github.com/creativesuspects/bulma-custom
+
